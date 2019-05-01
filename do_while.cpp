@@ -3,12 +3,20 @@
 
  int main(){
 	int i=1;
-	int sum =0;
+	int j;
+	int sum1 =0;
+	int sum2 =0;
 	do{
-		sum =+i;
+		sum1 =+i;
 		i++;
 	}while(i<=10);
 
-	cout <<"sume = "<< sum <<endl;
+	cout <<"sume = "<< sum1 <<endl;
+	
+	for(j=0;j<11;j++){
+		sum2 =+i;
+	}
+	cout <<"sume = "<< sum2 <<endl;
+	
 	return 0;
  }
