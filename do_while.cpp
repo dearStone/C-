@@ -6,13 +6,15 @@
 	int j;
 	int sum1 =0;
 	int sum2 =0;
+
+// do-while	
 	do{
 		sum1 =+i;
 		i++;
 	}while(i<=10);
-
 	cout <<"sume = "<< sum1 <<endl;
-	
+
+// for
 	for(j=0;j<11;j++){
 		sum2 =+i;
 	}
