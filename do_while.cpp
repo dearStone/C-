@@ -19,6 +19,7 @@
 		sum2 =+i;
 	}
 	cout <<"sume = "<< sum2 <<endl;
-	
+
+
 	return 0;
  }
