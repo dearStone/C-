@@ -6,7 +6,7 @@
 	int j;
 	int sum1 =0;
 	int sum2 =0;
-//start
+//start loop
 // do-while	
 	do{
 		sum1 =+i;
@@ -20,6 +20,6 @@
 	}
 	cout <<"sume = "<< sum2 <<endl;
 
-// end
+// end loop
 	return 0;
  }
